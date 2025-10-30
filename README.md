@@ -31,4 +31,4 @@ The detailed project report is included in this repository as:
 **Aditya_SkillForge_Report.pdf**
 
 ## LinkedIn
-[Sasi vardhan reddy Sangi reddy](www.linkedin.com/in/sasi-vardhan-reddy-sangi-reddy-49b036322)
+[www.linkedin.com/in/sasi-vardhan-reddy-sangi-reddy-49b036322]
